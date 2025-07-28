@@ -120,7 +120,7 @@ Talk to me
 +11-012345
 
 Chat with me
-https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://api.whatsapp.com/send?phone=237671258505&text=Bonjour!%20Je%20suis%20intéressé%20par%20vos%20services, more information!
 https://m.me/bedimcode
 https://t.me/telegram
 
@@ -142,7 +142,7 @@ Company
  Projects
 
 Information
- Peru - Lima <br> Av.Moon #321
+ Cameroun - yaounde <br> cite universitaire
  9AM - 11PM
 
 Social Media
@@ -151,4 +151,4 @@ https://www.instagram.com/
 https://twitter.com/
 
 .footer__copy
-&#169; All Rights Reserved By Bedimcode
+&#169; All Rights Reserved By Sudo
