@@ -116,8 +116,8 @@ Peru - Lima <br>
 Av.Moon #321
 
 Talk to me
-+00-987-7654-321 <br>
-+11-012345
++237-671-258-505 <br>
++237-694-813-818
 
 Chat with me
 https://api.whatsapp.com/send?phone=237671258505&text=Bonjour!%20Je%20suis%20intéressé%20par%20vos%20services, more information!
